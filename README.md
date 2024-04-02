@@ -52,15 +52,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
-
-- [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
-
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
-
-- [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
-
-- [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [x] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
 - [ ] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
@@ -76,15 +68,13 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
-
 - [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+- [x] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+- [x] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
 ## Windows Fundamentals
 
