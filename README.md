@@ -144,7 +144,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
 
-- [ ] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
+- [x] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
 - [ ] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
@@ -237,10 +237,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ## Web
 
 ---
-
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
-
-- [ ] [TryHackMe | WebAppSec 101](https://tryhackme.com/room/webappsec101)
 
 - [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
