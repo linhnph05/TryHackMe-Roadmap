@@ -238,9 +238,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
+- [x] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
-- [ ] [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
+- [x] [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
 
 - [ ] [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
 
